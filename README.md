@@ -1,11 +1,4 @@
-# 'AT with .Net' course
-
-Each branch is created for a specific home task.
-
 It runs in C# version 9.0.200 on Win11 using Selenium.WebDriver version 4.29.0 with NUnit framework. No dependencies that have to be installed manually.
-
-Reviews are welcome along with comments regarding clean code or best practices that might be used.
-
 
 
 ## Add your files
